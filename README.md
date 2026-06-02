@@ -1,3 +1,4 @@
 # aartisharma.cc
 This is my first Git repository
-author - Aarti sharma
+<br>
+Author - Aarti sharma
